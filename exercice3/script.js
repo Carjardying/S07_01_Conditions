@@ -2,7 +2,7 @@ let tmp = 15;
 
 // en if / else if / else
 
-/* if (tmp < 0) {
+if (tmp < 0) {
   console.log("Freezing weather.");
 } else if (tmp < 10) {
   console.log("Very cold weather.");
@@ -14,7 +14,7 @@ let tmp = 15;
   console.log("Its Hot.");
 } else {
   console.log("Its very hot.");
-} */
+}
 
 // ensuite en switchCase
 
