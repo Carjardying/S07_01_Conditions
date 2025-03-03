@@ -5,7 +5,7 @@ let legalAge = 17;
 
 function isLegal (name,num){
 if(name >= num){
-    console.log('${name} ans. il·elle est autorisé·e à conduire' );
+    console.log('${name} ans. il·elle est autorisé·e à conduire');
 }else {
     console.log(name + " ans. il·elle n'est pas autorisé·e à conduire");
 }
