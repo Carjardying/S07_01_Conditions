@@ -20,3 +20,4 @@ if (myNumber > 0){
 } else{
     console.log(myNumber + " est un nombre neutre");
 }
+// second commit pour tout mettre dans le dossier "exercice1" parce que j'avais tout mis directement dans le dossier branche
